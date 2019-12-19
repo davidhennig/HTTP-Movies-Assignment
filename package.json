@@ -15,6 +15,12 @@
   "bugs": {
     "url": "https://github.com/LambdaSchool/SPA-Routing-React/issues"
   },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
   "homepage": "hhttps://github.com/LambdaSchool/SPA-Routing-React#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
